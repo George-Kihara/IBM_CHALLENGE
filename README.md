@@ -1,9 +1,10 @@
 # IBM CHALLENGE SOLUTIONS
+Created by George Kihara.
 
 ## Tools used
 
-*Python
-*Visual Studio Code IDE
+	*Python
+	*Visual Studio Code IDE
 
 ## CHALLENGE ONE
 
